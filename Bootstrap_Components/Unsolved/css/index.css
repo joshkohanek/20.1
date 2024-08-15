@@ -7,6 +7,22 @@ footer {
   margin-top: 50px;
 }
 
-.card {
+.card{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 400px;
+}
 
+
+.container-fluid{
+  background-color: pink;
+}
+
+.btn{
+  background-color: black;
+  border: 3px solid pink;
+}
+
+.form{
+  margin: 35px auto;
 }
